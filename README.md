@@ -1,4 +1,4 @@
-# Inteligencia-Artificial-y-mini-robots
+# Inteligencia Artificial y mini-robots
 ## Talleres
 1. [Introducción a IA](intro-ai.md)
 2. Autómatas celulares
