@@ -1,6 +1,6 @@
 # Inteligencia-Artificial-y-mini-robots
 ## Talleres
-1. Introducción a IA [a relative link](intro-ai.md)
+1. [Introducción a IA](intro-ai.md)
 2. Autómatas celulares
 3. Algoritmos genéticos
 4. Programación genética
