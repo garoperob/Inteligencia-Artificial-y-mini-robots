@@ -21,6 +21,8 @@
     Prefiero el primer enfoque
     ### Prompt 3
     El fenómeno a modelar será un incendio forestal. La cuadrícula será: árbol, ardiendo, quemado. Las reglas serán: las mismas reglas que estableciste. Para la simulación hacemos la que dices. Esto lo pienso implementar con Python
+    ## Resultado
+    [AC probabilístico](./Untitled.ipynb)
 3. Se utlizó ChatGPT para realizar el código para el mapa de Voronoi usando los siguientes prompts
     ### Prompt 1
     La ciudad escogida es San Gil, Santander, Colombia. Obtén las coordenadas de cada droguería o farmacía (son sinónimos como ya sabes)
@@ -102,4 +104,6 @@
         into a coordinate plane, and delete the other coordinates.
     - add one or more points to make the input full dimensional.
     Las coordenadas de las droguerías fueron incertadas manualmente para mayor precisión. ya que no se puedieron extraer mediante 'Overpass Turbo'
+    ## Resultado
+    [Mapa de Voronoi](./Untitled.ipynb)
 4. 
