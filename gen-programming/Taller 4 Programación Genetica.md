@@ -9,12 +9,12 @@ Para la construccion de los codigos de Algoritmo Genetico se emplearon las sigui
 
 Tomando como referencia las siguientes paginas para comprender mejor las librerias y adaptarlas al codigo deseado: 
 
-- DataCamp. (s.f.). Genetic Algorithm in Python: A minimalist guide. DataCamp. Disponible en https://www.datacamp.com/tutorial/genetic-algorithm-python
+- DataCamp. Genetic Algorithm in Python: A minimalist guide. DataCamp. Disponible en https://www.datacamp.com/tutorial/genetic-algorithm-python
 
-- NetworkX Developers. (s.f.). NetworkX Tutorial. NetworkX. Disponible en https://networkx.github.io/documentation/stable/tutorial.html
+- NetworkX Developers. NetworkX Tutorial. NetworkX. Disponible en https://networkx.github.io/documentation/stable/tutorial.html
 
-- Ciencia de Datos. (s.f.). Optimización con Algoritmos Genéticos en Python. Ciencia de Datos. Disponible en https://cienciadedatos.net/documentos/py01_optimizacion_ga
+- Ciencia de Datos. Optimización con Algoritmos Genéticos en Python. Ciencia de Datos. Disponible en https://cienciadedatos.net/documentos/py01_optimizacion_ga
 
-- DEAP Developers. (s.f.). Advanced GP Tutorial. DEAP. Disponible en https://deap.readthedocs.io/en/master/tutorials/advanced/gp.html
+- DEAP Developers. Advanced GP Tutorial. DEAP. Disponible en https://deap.readthedocs.io/en/master/tutorials/advanced/gp.html
 
-- Matplotlib Developers. (s.f.). Pyplot tutorial. Matplotlib. Disponible en https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+- Matplotlib Developers. Pyplot tutorial. Matplotlib. Disponible en https://matplotlib.org/stable/tutorials/introductory/pyplot.html
