@@ -1,4 +1,7 @@
 # Inteligencia Artificial y mini-robots
+# Presentado por: 
+# - Gustavo  Adolfo Ropero Bastidas
+# - Steven Santiago Guzman Bernal
 ## Talleres
 1. [Introducción a IA](/intro-ia/intro-ia.md)
 2. [Autómatas celulares](/automata-celular/automata-cel.md)
