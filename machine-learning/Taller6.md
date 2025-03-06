@@ -1,3 +1,5 @@
+# Taller 6
+[Inicio](/README.md)
 Para la construccion de los codigos de Algoritmo Genetico se emplearon las siguientes librerias:
 
 - numpy: Manejo de arreglos y generación de datos sintéticos.

@@ -1,3 +1,5 @@
+# Taller 7
+[Inicio](/README.md)
 Para la construccion de los codigos de Algoritmo Genetico se emplearon las siguientes librerias:
 
 os: Permite realizar operaciones relacionadas con el sistema operativo, como el manejo de archivos y directorios.

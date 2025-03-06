@@ -1,3 +1,5 @@
+# Taller 4
+[Inicio](/README.md)
 Para la construccion de los codigos de Algoritmo Genetico se emplearon las siguientes librerias: 
 
 - random                    → Genera valores aleatorios, como mutaciones en el algoritmo genético.

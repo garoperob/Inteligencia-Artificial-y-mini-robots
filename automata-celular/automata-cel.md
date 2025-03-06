@@ -1,4 +1,5 @@
 # Taller 2
+[Inicio](/README.md)
 1.  - Casa:
         1. Tender la cama después de ir al baño. 
         2. Desayunar una vez alistado todas las cosas para salir.
