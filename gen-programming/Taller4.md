@@ -1,5 +1,8 @@
 # Taller 4
 [Inicio](/README.md)
+- [Circuito lógico](/gen-programming/Taller%204%20%20Circuito%20Logico.ipynb)
+- [Robot de galletas](/gen-programming/Taller%204%20Robot%20de%20galletas.ipynb)
+
 Para la construccion de los codigos de Algoritmo Genetico se emplearon las siguientes librerias: 
 
 - random                    → Genera valores aleatorios, como mutaciones en el algoritmo genético.

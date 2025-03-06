@@ -1,5 +1,8 @@
 # Taller 5
 [Inicio](/README.md)
+- [Clasificación de Gatos y Perros](/neural-network/Taller%205%20Clasificacion%20de%20Gatos%20y%20Perros.ipynb)
+- [Red Neuronal con pesos aleatorios](/neural-network/Taller%205%20Red%20Neuronal%20con%20Pesos%20Aleatorios.ipynb)
+
 Para la construccion de los codigos de Algoritmo Genetico se emplearon las siguientes librerias: 
 
 1. TensorFlow (tensorflow)

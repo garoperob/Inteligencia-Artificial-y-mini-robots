@@ -1,5 +1,8 @@
 # Taller 6
 [Inicio](/README.md)
+- [Algortimo L-Nearest para documentos](/machine-learning/Taller%206%20Algoritmo%20K-Nearest%20para%20documentos.ipynb)
+- [SVM con papas](/machine-learning/Taller%206%20SVM%20con%20papas.ipynb)
+
 Para la construccion de los codigos de Algoritmo Genetico se emplearon las siguientes librerias:
 
 - numpy: Manejo de arreglos y generación de datos sintéticos.

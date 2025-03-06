@@ -1,5 +1,8 @@
 # Taller 3
 [Inicio](/README.md)
+- [50 palabras](/gen-algorithm/Taller%203%20%2050%20palabras.ipynb)
+- [Partidos políticos](/gen-algorithm/Taller%203%20Partidos%20Politicos.ipynb)
+
 Para la construccion de los codigos de Algoritmo Genetico se emplearon las siguientes librerias: 
 
 - gTTS (Google Text-to-Speech)  → Convierte texto a voz y genera un archivo de audio.
